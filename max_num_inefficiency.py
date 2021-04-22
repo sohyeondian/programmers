@@ -15,7 +15,3 @@ print(solution([0, 0, 0]))
 print(solution([3, 30, 34, 5, 9]))
 print(solution([21, 212]))
 print(solution([34, 3, 307, 0]))  # 3430
-
-
-
-
